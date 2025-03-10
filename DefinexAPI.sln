@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefinexAPI", "DefinexAPI\DefinexAPI.csproj", "{DCBAC473-CFFB-4955-8D28-972736C4CB0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCBAC473-CFFB-4955-8D28-972736C4CB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBAC473-CFFB-4955-8D28-972736C4CB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBAC473-CFFB-4955-8D28-972736C4CB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBAC473-CFFB-4955-8D28-972736C4CB0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F71E37E-7AFE-452C-B87F-07FA3B5C2EC3}
+	EndGlobalSection
+EndGlobal
